@@ -1,2 +1,2 @@
 # BarcodeScanner
-Change Line 17 to appropriate file location
+Barcode Scanner using a USB Camera, OpenCV for image analysis and TKinter for GUI
