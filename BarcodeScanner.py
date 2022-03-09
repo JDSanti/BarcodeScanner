@@ -16,7 +16,6 @@ class App:
         #self._geom = '640x480+0+0'
         #window.geometry("{0}x{1}+0+0".format(window.winfo_screenwidth() - pad, window.winfo_screenheight() - pad))
         #window.bind('<F11>', self.toggle_geom)
-        self.window.iconbitmap("E:\\Downloads\\Barcode Scanner\\Images\\scanner.ico")
 
         # Menu
         menu = tkinter.Menu(window)
