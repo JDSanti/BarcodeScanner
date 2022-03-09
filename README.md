@@ -84,8 +84,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `JDSanti`, `BarcodeScanner`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -194,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@Capt_Santiago](https://twitter.com/Capt_Santiago) - jduhamel.santiago@gmail.com
 
 Project Link: [https://github.com/JDSanti/BarcodeScanner](https://github.com/JDSanti/BarcodeScanner)
 
