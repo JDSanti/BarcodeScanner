@@ -81,11 +81,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div align="center">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/JDSanti/BarcodeScanner)
 
+</div>
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
