@@ -76,6 +76,7 @@
 
 ### Built With
 
+* [Python](https://www.python.org/downloads/)
 * [TKinter](https://docs.python.org/3/library/tkinter.html)
 * [Open CV](https://pypi.org/project/opencv-python/)
 * [Pillow](https://pypi.org/project/Pillow/)
@@ -88,7 +89,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Tkinter and time libraries should be pre-installed but you can install them if needed.
+Tkinter and time libraries should be pre-installed when you install python but you can install them if needed.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -107,22 +108,15 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/JDSanti/BarcodeScanner.git
    ```
-3. Install NPM packages
+2. Run script to open GUI
    ```sh
-   npm install
+   python3 BarcodeScanner.py
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+4. Press "Scan for Barcode" button to scan the barcode on the video. Should print out the barcode on the terminal
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,10 +125,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Scan Barcodes
+- [x] Be able to take screenshot of Barcode
+- [ ] Setup working buttons
+    - [ ] Exiting
+    - [ ] Saving
 
 See the [open issues](https://github.com/JDSanti/BarcodeScanner/issues) for a full list of proposed features (and known issues).
 
